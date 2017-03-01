@@ -1,0 +1,66 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-image: url("http://www.robcaz.net/wongi4.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+}
+
+#header-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 25%;
+  width: auto;
+}
+
+h1 {
+  color: #FFF;
+  font-family: sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  text-align: center;
+  line-height: normal;
+  margin: auto;
+}
+
+h2 {
+  color: #FFF;
+  font-family: sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+}
+
+h3 {
+  color: #CCC;
+  font-family: cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: cursive;
+  font-size: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.main {
+  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
+  margin: 0;
+  padding: 40px;
+}
+
+.picture {
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
